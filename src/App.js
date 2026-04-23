@@ -15,6 +15,8 @@ function App() {
             <Link to="/">Home</Link>
             <Link to="/order">Order Now</Link>
             <Link to="/admin">Admin Dashboard</Link>
+           <iframe src="..." title="Restaurant Location Map" />
+    
           </div>
         </nav>
 
